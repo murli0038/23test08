@@ -51,7 +51,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
                                     <segment title="Add"/>
-                                    <segment title="Second"/>
+                                    <segment title="Sub"/>
                                     <segment title="Mul"/>
                                     <segment title="Div"/>
                                 </segments>
